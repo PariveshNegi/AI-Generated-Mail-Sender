@@ -46,9 +46,10 @@ EMAIL_PASS=your_gmail_app_password
 npm start
 App runs at: http://localhost:5000
 ```
+---
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/0af4b0fe-301b-417c-b90e-e6d1ddac4f3b" />
 
 ---
-
 ## 🙌 Acknowledgements
 
 This project was built to explore practical applications of generative AI in real-world workflows.  
