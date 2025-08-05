@@ -7,7 +7,9 @@
 A full-stack web app that generates professional emails using Google's Gemini 1.5 API and sends them via Gmail. Built with HTML, CSS, JavaScript, Node.js, and Express.
 
 ---
+
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/0af4b0fe-301b-417c-b90e-e6d1ddac4f3b" />
+
 ---
 ## ⚙️ Tech Stack
 
