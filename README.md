@@ -36,3 +36,10 @@ EMAIL_PASS=your_gmail_app_password
 npm start
 App runs at: http://localhost:5000
 ```
+
+---
+
+## 🙌 Acknowledgements
+
+This project was built to explore practical applications of generative AI in real-world workflows.  
+Special thanks to the open-source community, Google AI Studio for providing Gemini APIs, and the maintainers of Node.js, Express, and Nodemailer.
