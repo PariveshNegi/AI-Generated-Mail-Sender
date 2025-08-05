@@ -17,6 +17,10 @@ A full-stack web app that generates professional emails using Google's Gemini 1.
 
 ---
 
+### Structure
+- Create the /client folder and put the index.html , script.js and style.css files in it.
+- Create the /server folder and put the .env , index.js , package.json files in it.
+---
 ## 🚀 Setup
 
 ### 1. Clone & Install
